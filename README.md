@@ -2,7 +2,8 @@
 
 This repository contains the Football Performance Dashboard created using Power BI.
 
-[Dashboard Preview on Youtube](ttps://youtu.be/52DK-MJDSmM?si=dQTssFGBXyGKHa9y)
+This is Dashboard Preview
+<img src="https://github.com/Ifsiyana/Football-Performance-Dashboard-Using-POWER-BI/blob/main/Football Dashboard.gif">
 
 
 ## Features
