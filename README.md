@@ -1,10 +1,9 @@
 # Football-Performance-Dashboard-Using-POWER-BI
 
-# Football Performance Dashboard
 This repository contains the Football Performance Dashboard created using Power BI.
 
 <video width="800" controls>
-  <source src="https://github.com/username/repo-name/blob/main/assets/dashboard.mp4" type="video/mp4">
+  <source src="Preview Football Dashboard.mp4" type="video/mp4">
 </video>
 
 ## Features
