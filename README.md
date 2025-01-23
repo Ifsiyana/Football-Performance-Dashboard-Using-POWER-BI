@@ -2,9 +2,8 @@
 
 This repository contains the Football Performance Dashboard created using Power BI.
 
-<video width="800" controls>
-  <source src="[Preview Football Dashboard.mp4](https://github.com/Ifsiyana/Football-Performance-Dashboard-Using-POWER-BI/blob/main/Preview Football Dashboard.mp4)" type="video/mp4">
-</video>
+[Dashboard Preview on Youtube](ttps://youtu.be/52DK-MJDSmM?si=dQTssFGBXyGKHa9y)
+
 
 ## Features
 - **Average Red and Yellow Cards**: Displays the average number of red and yellow cards across matches.
